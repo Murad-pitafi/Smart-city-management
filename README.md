@@ -27,6 +27,8 @@ This project is a Smart City Management system that provides two options: Admini
 
 Both administrators and visitors have the option to go back or exit the program at any time.
 
+
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request.
