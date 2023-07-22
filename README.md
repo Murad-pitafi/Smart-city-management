@@ -31,7 +31,7 @@ Both administrators and visitors have the option to go back or exit the program 
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request.
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, kindly please submit a pull request.
 
 ## License
 
